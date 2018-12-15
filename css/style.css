@@ -33,6 +33,7 @@ body {
     position: relative;
     padding: 1rem 0;
     display: flex;
+    z-index: 5;
     -webkit-box-shadow: 0px 2.5px 10px 0px rgba(0, 0, 0, 0.25);
     -moz-box-shadow: 0px 2.5px 10px 0px rgba(0, 0, 0, 0.25);
     box-shadow: 0px 2.5px 10px 0px rgba(0, 0, 0, 0.25);
@@ -47,12 +48,12 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
     letter-spacing: 0.25rem;
-    font-size: 5vmax;
+    font-size: 45px;
     text-shadow: 0px 10px 15px rgba(0, 0, 0, 0.25);
 }
 
 #subtitle {
-    font-size: 2vmax;
+    font-size: 20px;
     color: #ffffff;
     background-color: #F54337;
     justify-content: center;
@@ -68,7 +69,7 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    font-size: 2.5vmax;
+    font-size: 25px;
     letter-spacing: 0.3rem;
     text-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
 }
@@ -79,23 +80,24 @@ body {
 }
 
 .search input {
-    border: 0.5vmax solid #3366FF;
+    border: 2.5px solid #3366FF;
     text-align: center;
     width: 90vw;
-    height: 7.5vmax;
+    padding: 1.75rem;
+    height: 1.5rem;
     border-radius: 5vmax;
-    font-size: 2.5vmax;
     color: #3366FF;
-    text-shadow: 0px 2.5px 2.5px rgba(0, 0, 0, 0.15);
     font-weight: 700;
-    -webkit-box-shadow: 0px 2.5px 15px 0px rgba(0, 0, 0, 0.25);
-    -moz-box-shadow: 0px 2.5px 15px 0px rgba(0, 0, 0, 0.25);
-    box-shadow: 0px 2.5px 15px 0px rgba(0, 0, 0, 0.25);
+    font-size: 20px;
+    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.15);
 }
 
 ::placeholder {
     color: #3366FF;
-    font-weight: 600;
+    font-weight: 700;
     text-shadow: 0px 2.5px 2.5px rgba(0, 0, 0, 0.15);
 }
 
@@ -116,8 +118,7 @@ div.card {
 
 .card-title {
     font-weight: 700;
-    font-size: 1.5rem;
-    text-transform: uppercase;
+    font-size: 20px;
 }
 
 .button {
@@ -135,8 +136,8 @@ button {
 .footer {
     text-align: center;
     font-weight: 700;
-    padding: 0.25rem 0;
-    font-size: 1.25rem;
+    padding: 0.5rem 0;
+    font-size: 18px;
     color: #ffffff;
     letter-spacing: 0.25rem;
     background-color: #0097FE;
@@ -144,4 +145,17 @@ button {
     -webkit-box-shadow: 0px -2.5px 10px 0px rgba(0, 0, 0, 0.15);
     -moz-box-shadow: 0px -2.5px 10px 0px rgba(0, 0, 0, 0.15);
     box-shadow: 0px -2.5px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+#img
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    border-radius: 100%;
+    -webkit-box-shadow: 0px 2.5px 10px 0px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0px 2.5px 10px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 2.5px 10px 0px rgba(0, 0, 0, 0.25);
 }
