@@ -80,6 +80,7 @@ body {
 }
 
 .search input {
+	outline: none;
     border: 2.5px solid #3366FF;
     text-align: center;
     width: 90vw;
