@@ -1,0 +1,28 @@
+/*------------------------------------*\
+  Footer Section
+\*------------------------------------*/
+@import '../CSS Colors/Color.scss';
+
+
+footer {
+    text-align: center;
+    padding: 0.5rem 0;
+    color: #ffffff;
+    letter-spacing: 0.25rem;
+    background-color: #0097FE;
+    text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 0px -2.5px 10px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px -2.5px 10px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px -2.5px 10px 0px rgba(0, 0, 0, 0.15);
+     .fab{
+       color:  #3e3e3e;
+       font-size: 30px;
+       margin: 0 5px;
+       transition: color 0.5s ease;
+     }
+     .fab:hover{
+       color: #000;
+       font-size: 30px;
+       margin: 0 5px;
+     }
+}

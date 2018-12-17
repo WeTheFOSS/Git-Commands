@@ -1,0 +1,35 @@
+{
+  "name": "git-commands",
+  "version": "0.1.0",
+  "private": true,
+  "homepages": "https://wethefoss.github.io/Git-Commands",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "gh-pages": "^2.0.1",
+    "i": "^0.3.6",
+    "node-sass": "^4.11.0",
+    "normalize.css": "^8.0.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1",
+    "react-search-input": "^0.11.3",
+    "reactstrap": "^6.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
