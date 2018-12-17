@@ -1,0 +1,34 @@
+/*------------------------------------*\
+  Footer Section
+\*------------------------------------*/
+@import '../CSS Colors/Color.scss';
+
+
+footer {
+    text-align: center;
+    padding: 1.5rem;
+    color: #ffffff;
+    letter-spacing: 0.25rem;
+    background-color: #0097FE;
+     .fab{
+       color:  #ffffff;
+       font-size: 30px;
+       margin: 0 0.5rem;
+       transition: color 0.5s ease;
+     }
+     .fab:hover{
+       color: #000;
+       font-size: 30px;
+     }
+     hr
+     {
+       background-color: #ffffff;
+       width: 50%;
+       margin: 0.5rem auto;
+     }
+     #src-git
+     {
+       justify-content: center;
+       color: #ffffff;
+     }
+}
