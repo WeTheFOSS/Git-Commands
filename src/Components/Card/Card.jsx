@@ -38,10 +38,15 @@ const git = [
     description: "Remove a file (or folder) from your repository.",
     id: '7'
   }, {
+    cli: "git pull origin",
+    usage: "git pull origin [branch-name]",
+    description: "To pull a specific branch from github repository.",
+    id: '8'
+  }, {
     cli: "git push origin",
     usage: "git push origin [branch-name]",
     description: "To push a specific branch from github repository.",
-    id: '8'
+    id: '9'
   },
 ]
 

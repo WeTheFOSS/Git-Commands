@@ -1,18 +1,31 @@
 {
+<<<<<<< HEAD
   "main.css": "/Git-Commands/static/css/main.d5bcd69e.chunk.css",
   "main.js": "/Git-Commands/static/js/main.0dffbcfc.chunk.js",
   "main.js.map": "/Git-Commands/static/js/main.0dffbcfc.chunk.js.map",
   "static/css/1.2b94de11.chunk.css": "/Git-Commands/static/css/1.2b94de11.chunk.css",
   "static/js/1.4e65c77b.chunk.js": "/Git-Commands/static/js/1.4e65c77b.chunk.js",
   "static/js/1.4e65c77b.chunk.js.map": "/Git-Commands/static/js/1.4e65c77b.chunk.js.map",
+=======
+  "main.css": "/Git-Commands/static/css/main.dc92aab3.chunk.css",
+  "main.js": "/Git-Commands/static/js/main.df14bd2a.chunk.js",
+  "main.js.map": "/Git-Commands/static/js/main.df14bd2a.chunk.js.map",
+  "static/css/1.042f4f08.chunk.css": "/Git-Commands/static/css/1.042f4f08.chunk.css",
+  "static/js/1.cdcb59af.chunk.js": "/Git-Commands/static/js/1.cdcb59af.chunk.js",
+  "static/js/1.cdcb59af.chunk.js.map": "/Git-Commands/static/js/1.cdcb59af.chunk.js.map",
+>>>>>>> 24f7b4f5ab338b57edbe16e26e4e1af2fb1426b6
   "runtime~main.js": "/Git-Commands/static/js/runtime~main.f2cfc365.js",
   "runtime~main.js.map": "/Git-Commands/static/js/runtime~main.f2cfc365.js.map",
   "static/media/naveen.jpeg": "/Git-Commands/static/media/naveen.89429ff8.jpeg",
   "static/media/sneha.jpeg": "/Git-Commands/static/media/sneha.ade5b940.jpeg",
   "static/media/harsh.jpeg": "/Git-Commands/static/media/harsh.7c6d3234.jpeg",
-  "static/css/main.d5bcd69e.chunk.css.map": "/Git-Commands/static/css/main.d5bcd69e.chunk.css.map",
-  "static/css/1.2b94de11.chunk.css.map": "/Git-Commands/static/css/1.2b94de11.chunk.css.map",
+  "static/css/main.dc92aab3.chunk.css.map": "/Git-Commands/static/css/main.dc92aab3.chunk.css.map",
+  "static/css/1.042f4f08.chunk.css.map": "/Git-Commands/static/css/1.042f4f08.chunk.css.map",
   "index.html": "/Git-Commands/index.html",
+<<<<<<< HEAD
   "precache-manifest.a1ad76d6149cf1372ce16585bcf79133.js": "/Git-Commands/precache-manifest.a1ad76d6149cf1372ce16585bcf79133.js",
+=======
+  "precache-manifest.35fe2e5c692e378cd7d950f8136b0d68.js": "/Git-Commands/precache-manifest.35fe2e5c692e378cd7d950f8136b0d68.js",
+>>>>>>> 24f7b4f5ab338b57edbe16e26e4e1af2fb1426b6
   "service-worker.js": "/Git-Commands/service-worker.js"
 }
