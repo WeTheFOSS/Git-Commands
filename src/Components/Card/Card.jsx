@@ -37,6 +37,11 @@ const git = [
     usage: "git rm -r [file-name.jsx]",
     description: "Remove a file (or folder) from your repository.",
     id: '7'
+  }, {
+    cli: "git push origin",
+    usage: "git push origin [branch-name]",
+    description: "To push a specific branch from github repository.",
+    id: '8'
   },
 ]
 
