@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "df14bd2a08cf9b19b712",
-    "url": "/Git-Commands/static/css/main.dc92aab3.chunk.css"
+    "revision": "fca63395d34f0485520b",
+    "url": "/Git-Commands/static/css/main.3029bb48.chunk.css"
   },
   {
-    "revision": "df14bd2a08cf9b19b712",
-    "url": "/Git-Commands/static/js/main.df14bd2a.chunk.js"
+    "revision": "fca63395d34f0485520b",
+    "url": "/Git-Commands/static/js/main.fca63395.chunk.js"
   },
   {
-    "revision": "cdcb59afbe44b9eddcd7",
-    "url": "/Git-Commands/static/css/1.042f4f08.chunk.css"
+    "revision": "4e65c77b9d1e83fa8354",
+    "url": "/Git-Commands/static/css/1.2b94de11.chunk.css"
   },
   {
-    "revision": "cdcb59afbe44b9eddcd7",
-    "url": "/Git-Commands/static/js/1.cdcb59af.chunk.js"
+    "revision": "4e65c77b9d1e83fa8354",
+    "url": "/Git-Commands/static/js/1.4e65c77b.chunk.js"
   },
   {
     "revision": "f2cfc3654ddd14cb5135",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/Git-Commands/static/media/harsh.7c6d3234.jpeg"
   },
   {
-    "revision": "612fcef492f4954198c1116a121c164e",
+    "revision": "6ae0005a637b7fee5414dbcfd5295679",
     "url": "/Git-Commands/index.html"
   }
 ];
