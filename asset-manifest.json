@@ -1,7 +1,7 @@
 {
   "main.css": "/Git-Commands/static/css/main.d5bcd69e.chunk.css",
-  "main.js": "/Git-Commands/static/js/main.5d3e9cb8.chunk.js",
-  "main.js.map": "/Git-Commands/static/js/main.5d3e9cb8.chunk.js.map",
+  "main.js": "/Git-Commands/static/js/main.28abf311.chunk.js",
+  "main.js.map": "/Git-Commands/static/js/main.28abf311.chunk.js.map",
   "static/css/1.2b94de11.chunk.css": "/Git-Commands/static/css/1.2b94de11.chunk.css",
   "static/js/1.4e65c77b.chunk.js": "/Git-Commands/static/js/1.4e65c77b.chunk.js",
   "static/js/1.4e65c77b.chunk.js.map": "/Git-Commands/static/js/1.4e65c77b.chunk.js.map",
@@ -13,6 +13,6 @@
   "static/css/main.d5bcd69e.chunk.css.map": "/Git-Commands/static/css/main.d5bcd69e.chunk.css.map",
   "static/css/1.2b94de11.chunk.css.map": "/Git-Commands/static/css/1.2b94de11.chunk.css.map",
   "index.html": "/Git-Commands/index.html",
-  "precache-manifest.184e348e38a19b5f7af6fecd9649a305.js": "/Git-Commands/precache-manifest.184e348e38a19b5f7af6fecd9649a305.js",
+  "precache-manifest.e5748bda50aeb564238c0679e4c26e06.js": "/Git-Commands/precache-manifest.e5748bda50aeb564238c0679e4c26e06.js",
   "service-worker.js": "/Git-Commands/service-worker.js"
 }
