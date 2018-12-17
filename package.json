@@ -2,7 +2,7 @@
   "name": "git-commands",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://wethefoss.github.io/Git-Commands",
+  "homepage": "https://wethefoss.github.io/Git-Commands",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "gh-pages": "^2.0.1",
