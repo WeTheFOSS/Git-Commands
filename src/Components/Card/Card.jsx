@@ -39,7 +39,7 @@ const git = [
     id: '7'
   }, {
     cli: "git push origin",
-    usage: "git push origin [branh-name]",
+    usage: "git push origin [branch-name]",
     description: "To push a specific branch from github repository.",
     id: '9'
   },
