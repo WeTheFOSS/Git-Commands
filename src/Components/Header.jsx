@@ -6,7 +6,6 @@ class Header extends React.Component {
       <div>
         {/*Thanks to
         https://codepen.io/beben-koben/pen/BoLyf*/}
-        <a id="forkMe" href="https://github.com/WeTheFOSS/Git-Commands">Fork me on GitHub</a>
         <div className="header-title">
           <h1>
             <a href="/" target="_blank" rel="noopener noreferrer">

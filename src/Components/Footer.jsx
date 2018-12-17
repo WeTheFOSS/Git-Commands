@@ -8,7 +8,6 @@ class Footer extends Component {
     return (<div>
       <footer>
         <h5>A PROJECT BY 3 NERDS</h5>
-        <p>Follow</p>
         <a href="https://twitter.com/WeTheFOSS">
           <i className="fab fa-twitter"></i>
         </a>
@@ -18,6 +17,8 @@ class Footer extends Component {
         <a href="https://github.com/wethefoss">
           <i className="fab fa-github"></i>
         </a>
+        <hr/>
+        <a id="src-git" href="https://github.com/WeTheFOSS/Git-Commands">STARGRAZE US ON <b>GITHUB</b></a>
       </footer>
     </div>);
   }

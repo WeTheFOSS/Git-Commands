@@ -41,7 +41,7 @@ class Credits extends Component{
   render() {
     return (
       <div >
-        <h4 className="credits">CREDITS FOR THIS PROJECT</h4>
+        <h5 className="credits">CREDITS FOR THIS PROJECT</h5>
         <Container>
         <Row>
         {
