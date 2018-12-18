@@ -18,7 +18,7 @@ class Footer extends Component {
           <i className="fab fa-github"></i>
         </a>
         <hr/>
-        <a id="src-git" href="https://github.com/WeTheFOSS/Git-Commands">STARGRAZE US ON <b>GITHUB</b></a>
+        <a id="src-git" href="https://github.com/WeTheFOSS/Git-Commands"  target="_blank"  rel="noopener noreferrer">STARGRAZE US ON <b>GITHUB</b></a>
       </footer>
     </div>);
   }
