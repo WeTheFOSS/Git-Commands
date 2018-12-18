@@ -30,7 +30,7 @@ const people = [
     url: "https://harsh98trivedi.github.io",
     description: "A Tech Lover, Inspired by Imagination, Jack of all trades, master of none.",
     image: require("./images/harsh.jpeg"),
-    twitter: "https://twitter.com/theharshtrivedi",
+    twitter: "https://twitter.com/techetarian",
     github: "https://www.github.com/harsh98trivedi",
     email: "harsh98trivedi@gmail.com",
     id: '3'
