@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/Git-Commands/static/media/harsh.7c6d3234.jpeg"
   },
   {
-    "revision": "a434639e9ccd1baf2d6dd4a08be141fe",
+    "revision": "ce2ccd8fee065118dd979f9f2ed4b0c3",
     "url": "/Git-Commands/index.html"
   }
 ];
