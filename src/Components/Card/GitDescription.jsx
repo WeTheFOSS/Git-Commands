@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Search from './Card';
+import Search from './card';
 
 class GitDescription extends Component {
   render() {

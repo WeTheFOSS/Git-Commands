@@ -7,7 +7,7 @@ class Header extends React.Component {
         {}
         <div className="header-title">
           <h1>
-            <a href="/" rel="noopener noreferrer">
+            <a href="https://wethefoss.github.io/Git-Commands/" rel="noopener noreferrer">
               GIT COMMANDS
             </a>
           </h1>
