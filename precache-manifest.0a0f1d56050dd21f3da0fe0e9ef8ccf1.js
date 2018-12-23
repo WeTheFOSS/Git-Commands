@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3fb3a636010e76c9f4f4",
+    "revision": "ad2d24233598d4ef1d58",
     "url": "/Git-Commands/static/css/main.94687379.chunk.css"
   },
   {
-    "revision": "3fb3a636010e76c9f4f4",
-    "url": "/Git-Commands/static/js/main.3fb3a636.chunk.js"
+    "revision": "ad2d24233598d4ef1d58",
+    "url": "/Git-Commands/static/js/main.ad2d2423.chunk.js"
   },
   {
     "revision": "4e65c77b9d1e83fa8354",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/Git-Commands/static/media/harsh.7c6d3234.jpeg"
   },
   {
-    "revision": "ce2ccd8fee065118dd979f9f2ed4b0c3",
+    "revision": "ddf120f961ff3e66dfa49da195750792",
     "url": "/Git-Commands/index.html"
   }
 ];
