@@ -9,7 +9,7 @@ const people = [
     name: "Naveen Kharwar",
     url: "https://naveenkharwar.com",
     description: "A freelance React Developer, Web/WordPress developer and a geek.",
-    image: require("./images/naveen.jpeg"),
+    image:  "https://github.com/naveenkharwar.png",
     twitter: "https://www.twitter.com/naveenkharwar0",
     github: "https://github.com/naveenkharwar",
     email: "naveen9198@gmail.com",
@@ -17,11 +17,11 @@ const people = [
   },
   {
     name: "Sneha Omer",
-    url: "https://twitter.com/thesassycoder",
-    description: "An emotionless nerd, who loves to get involved in most of the techie stuff.",
-    image: require("./images/sneha.jpeg"),
-    twitter: "https://www.twitter.com/thesassycoder",
-    github: "https://github.com/sassyec0der",
+    url: "https://twitter.com/sassyecoder",
+    description: "A tiny nerd with a curious brain and a will to turn information into action.",
+    image: "https://github.com/sassyecoder.png",
+    twitter: "https://www.twitter.com/sassyecoder",
+    github: "https://github.com/sassyecoder",
     email: "omersneha@gmail.com",
     id: '2'
   },
@@ -29,10 +29,10 @@ const people = [
     name: "Harsh Trivedi",
     url: "https://harsh98trivedi.github.io",
     description: "A Tech Lover, Inspired by Imagination, Jack of all trades, master of none.",
-    image: require("./images/harsh.jpeg"),
+    image: "https://github.com/harsh98trivedi.png",
     twitter: "https://twitter.com/harsh98trivedi",
     github: "https://www.github.com/harsh98trivedi",
-    email: "harsh98trivedi@gmail.com",
+    email: "harshtrivedi@duck.com",
     id: '3'
   },
 ]
