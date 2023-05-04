@@ -8,7 +8,7 @@ Git Commands provides us the information about the commands which are required t
 
 ---
 
-![Git Commands](https://raw.githubusercontent.com/WeTheFOSS/Git-Commands/master/src/Components/images/meta.jpg)<hr>
+![Git Commands](https://i.imgur.com/bwTpIeA.jpg)<hr>
 ## <u><b>Credits:-</u>
 ###  BELONG TO THE  NERDS
 * #### [Naveen Kharwar](https://github.com/naveenkharwar)
